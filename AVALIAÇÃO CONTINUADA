@@ -1,5 +1,79 @@
 BANCO DE DADOS
+Um banco de dados é uma coleção organizada de informações - ou dados - estruturadas, 
+normalmente armazenadas eletronicamente em um sistema de computador. Um banco de dados 
+é geralmente controlado por um sistema de gerenciamento de banco de dados (DBMS). Juntos, 
+os dados e o DBMS, juntamente com os aplicativos associados a eles, são chamados de sistema 
+de banco de dados, geralmente abreviados para apenas banco de dados.
+Os bancos de dados evoluíram muito desde a sua criação no início dos anos 1960. Bancos de 
+dados de navegação, como o banco de dados hierárquico (que se baseava em um modelo de 
+árvore e permitia apenas um relacionamento um-para-muitos), e o banco de dados de rede (um 
+modelo mais flexível que permitia múltiplos relacionamentos) eram os sistemas originais 
+usados para armazenar e manipular dados. Embora simples, esses primeiros sistemas eram 
+inflexíveis. Nos anos 1980, bancos de dados relacionais tornaram-se populares, seguidos por 
+bancos de dados orientados a objetos na década de 1990. Mais recentemente, bancos de dados 
+NoSQL surgiram como uma resposta ao crescimento da internet e à necessidade de maior 
+velocidade e processamento de dados não estruturados. Hoje, bancos de dados na nuvem e 
+bancos de dados autônomos estão abrindo novos caminhos quando se trata de como os dados 
+são coletados, armazenados, gerenciados e utilizados.
 ALGORITMO
+Um algoritmo é uma sequência de instruções ou comandos realizados de maneira sistemática 
+com o objetivo de resolver um problema ou executar uma tarefa. Os algoritmos são como uma 
+receita de bolo: uma sequência de ações que devem ser executadas para que o objetivo final —
+o bolo pronto — seja atingido. 
+Aplicam-se os algoritmos nas tarefas simples do dia a dia e também nos programas 
+computacionais complexos que identificam o comportamento do consumidor na internet. 
+Todas as funções dos computadores, smartphones e tablets, por exemplo, resultam de 
+algoritmos. Essas máquinas conseguem realizar bilhões de comandos em poucos segundos. 
+Na programação, o algoritmo é um conceito muito importante, pois todas as máquinas e 
+programas de computador funcionam a partir de sequências de ações finitas que levam à 
+realização de uma tarefa.
 DADOS
+Um dado é a representação de uma variável, que pode ser quantitativa ou qualitativa, que indica 
+um valor que é atribuído às coisas e é representado por uma sequência de símbolos, números 
+ou letras.
+Os dados descrevem fatos empíricos. Para examiná-los, eles devem ser organizados ou 
+tabulados, já que um dado por si só não pode demonstrar muito, mas o todo deve ser avaliado 
+para examinar os resultados.
+As bases de dados são constituídas por um conjunto de dados classificados segundo critérios e 
+armazenados em suporte (digital ou não) para serem consultados e acedidos de forma simples 
+e rápida. Os dados podem ser gerados automática e cumulativamente com programas de 
+computador ou inseridos manualmente.
+Os dados inseridos em um banco de dados podem ser de vários tipos, dependendo das 
+informações acumuladas nesse banco de dados. Por exemplo: um banco de dados de 
+funcionários inclui as informações pessoais (nome, número de telefone, endereço) de todos os 
+membros de uma empresa ou organização.
 NUVEM
+A definição de nuvem pode parecer obscura, mas, basicamente, é um termo utilizado para 
+descrever uma rede global de servidores, cada um com uma função única. A nuvem não é uma 
+entidade física, mas uma vasta rede de servidores remotos ao redor do globo que são conectados 
+e operam como um único ecossistema. Esses servidores são responsáveis por armazenar e 
+gerenciar dados, executar aplicativos e fornecer conteúdo ou serviços, como transmissão de 
+vídeos, webmail, software de produtividade ou mídias sociais. Em vez de acessar arquivos e 
+dados do local ou de um PC, você pode acessá-los online, de qualquer dispositivo com acesso 
+à Internet. As informações estarão disponíveis em praticamente qualquer lugar, a qualquer 
+hora.
+As empresas utilizam quatro métodos diferentes para implantar recursos de nuvem. Há a nuvem 
+pública, que compartilha recursos e oferece serviços ao público em geral da Internet, a nuvem 
+privada, que não é compartilhada e oferece serviços em uma rede interna privada (geralmente 
+hospedada localmente), a nuvem híbrida, que compartilha serviços entre nuvens públicas e 
+privadas de acordo com seu propósito, e a nuvem de comunidade, que compartilha recursos 
+apenas entre organizações, como instituições governamentais.
 PROCESSO DE NEGÓCIO
+Processo de Negócio ou Processo Organizacional é a forma como uma empresa se organiza 
+internamente para atingir seus objetivos e conseguir oferecer um produto ou serviço de 
+qualidade.
+Para que isso seja possível, a empresa faz o uso de hierarquias, setores e pessoas, atribuindo 
+responsabilidades e designando os profissionais que farão parte das tarefas responsáveis pela 
+entrega final.
+Em outras palavras, a gestão de processos é como uma empresa cria, personaliza e mensura 
+procedimentos de rotina. Cada departamento é responsável por uma etapa do projeto para 
+transformá-lo no resultado final.
+Processo de Negócio ou Processo Organizacional é a forma como uma empresa se organiza 
+internamente para atingir seus objetivos e conseguir oferecer um produto ou serviço de 
+qualidade.
+Para que isso seja possível, a empresa faz o uso de hierarquias, setores e pessoas, atribuindo 
+responsabilidades e designando os profissionais que farão parte das tarefas responsáveis pela 
+entrega final.
+Em outras palavras, a gestão de processos é como uma empresa cria, personaliza e mensura 
+procedimentos de rotina. Cada departamento é responsável por uma etapa do projeto para 
+transformá-lo no resultado final.
