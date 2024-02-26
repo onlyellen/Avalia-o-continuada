@@ -77,3 +77,36 @@ entrega final.
 Em outras palavras, a gestão de processos é como uma empresa cria, personaliza e mensura 
 procedimentos de rotina. Cada departamento é responsável por uma etapa do projeto para 
 transformá-lo no resultado final.
+JURIMETRIA  
+Jurimetria é a aplicação de métodos quantitativos, especialmente a estatística, na área do Direito. Revolucionando a prática jurídica, ela tem sido utilizada em conjunto com softwares para prever riscos, oferecer probabilidades de vitória em litígio e prever tendências de comportamento nos tribunais.
+Segundo definição da ABJ (Associação Brasileira de Jurimetria), Jurimetria consiste na “disciplina resultante da aplicação de modelos estatísticos na compreensão dos processos e fatos jurídicos”. Em outras palavras, é a estatística aplicada ao Direito, como um serviço de Business Intelligence especializado na advocacia. 
+
+A Jurimetria serve como uma métrica para auxiliar advogados e gestores a prever variados cenários e tomar decisões. Claro que, não se trata de uma ciência exata, uma vez que cada processo tem as suas particularidades. Mas a partir de decisões já proferidas, permite que os profissionais saibam se o caminho escolhido é o melhor possível ou se há outras alternativas, sendo especialmente importante na rotina de grandes escritórios e departamentos jurídicos. 
+
+ZERO RATING  
+
+O Zero Rating é uma prática realizada pelas operadoras e algumas empresas de tecnologia que consiste em permitir o acesso de forma "gratuita", ou sem cobrar o tráfego de dados móveis a alguns serviços online, como apps de rede sociais e mensagens. No entanto, Ao permitir o acesso apenas a alguns serviços, as empresas estariam limitando uma das premissas básicas da Internet: a neutralidade da rede. 
+
+NEUTRALIDADE DA REDE  
+
+A neutralidade da rede é um princípio que tem como premissa o tráfego da internet ser tratado igualmente, sem discriminação, restrição ou interferência independentemente do emissor, recipiente, tipo ou conteúdo, de forma que a liberdade dos usuários de internet não seja restringida pelo favorecimento ou desfavorecimento de transmissões do tráfego da internet associado a conteúdos, serviços, aplicações ou dispositivos particulares”. 
+
+Em outras palavras, uma operadora de telefonia que também controla banda larga não pode deixar lenta ou ruim a conexão de um usuário que utilize a rede para se conectar a um serviço online de chamadas, como o Skype. 
+
+Ou seja, independentemente de o usuário usar a rede para enviar um e-mail, carregar um vídeo ou acessar um site, não pode haver privilégio ou prejuízo a nenhuma dessas informações, ou “pacotes de dados” específicos. Por essa regra, as detentoras das redes também não podem celebrar acordos comerciais com sites, aplicativos ou plataformas para que seus conteúdos sejam privilegiados e cheguem mais rapidamente a seus clientes. 
+
+SERVIDOR  
+
+Um servidor, em suma, é um computador com grande capacidade de armazenamento e processamento cujo objetivo é conectar outros computadores através de uma rede. 
+
+Os servidores processam e executam solicitações feitas por usuário através de softwares, bancos de dados, envio e recebimento de informações como e-mails, envio de formulários, hospedagem de websites e outros. 
+
+Um servidor funciona, grosso modo, como um grande computador, mas ao invés de executar operações em nível doméstico, ele o faz em grande escala, transferindo esses resultados para diferentes computadores. 
+
+REDE NEURAL ARTIFICIAL  
+
+As redes neurais, também conhecidas como redes neurais artificiais (ANNs) ou redes neurais simuladas (SNNs), são um subconjunto de machine learning  e estão no cerne dos algoritmos de deep learning.  Seu nome e estrutura são inspirados no cérebro humano, imitando a maneira como os neurônios biológicos enviam sinais uns para os outros. 
+
+As redes neurais artificiais (ANNs) são compostas por camadas de um nó, contendo uma camada de entrada, uma ou mais camadas ocultas e uma camada de saída. Cada nó, ou neurônio artificial, conecta-se a outro e tem um peso e um limite associados. Se a saída de qualquer nó individual estiver acima do valor do limite especificado, esse nó será ativado, enviando dados para a próxima camada da rede. Caso contrário, nenhum dado será transmitido junto à próxima camada da rede. 
+
+As redes neurais contam com dados de treinamento para aprender e melhorar sua precisão ao longo do tempo. No entanto, uma vez que esses algoritmos de aprendizagem são ajustados para aumentar a precisão, eles se tornam ferramentas poderosas de ciência da computação e inteligência artificial, permitindo-nos classificar e agrupar dados a uma alta velocidade. As tarefas de reconhecimento de fala ou reconhecimento de imagem podem levar minutos em vez horas, quando comparadas com a identificação manual feita por especialistas humanos. Uma das redes neurais mais conhecidas é o algoritmo de procura do Google. 
