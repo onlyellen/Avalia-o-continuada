@@ -110,3 +110,24 @@ As redes neurais, também conhecidas como redes neurais artificiais (ANNs) ou re
 As redes neurais artificiais (ANNs) são compostas por camadas de um nó, contendo uma camada de entrada, uma ou mais camadas ocultas e uma camada de saída. Cada nó, ou neurônio artificial, conecta-se a outro e tem um peso e um limite associados. Se a saída de qualquer nó individual estiver acima do valor do limite especificado, esse nó será ativado, enviando dados para a próxima camada da rede. Caso contrário, nenhum dado será transmitido junto à próxima camada da rede. 
 
 As redes neurais contam com dados de treinamento para aprender e melhorar sua precisão ao longo do tempo. No entanto, uma vez que esses algoritmos de aprendizagem são ajustados para aumentar a precisão, eles se tornam ferramentas poderosas de ciência da computação e inteligência artificial, permitindo-nos classificar e agrupar dados a uma alta velocidade. As tarefas de reconhecimento de fala ou reconhecimento de imagem podem levar minutos em vez horas, quando comparadas com a identificação manual feita por especialistas humanos. Uma das redes neurais mais conhecidas é o algoritmo de procura do Google. 
+REFERENCIAS: 
+
+Proj4me 
+
+O que é nuvem – definição | Microsoft Azure 
+
+Dados - o que é, conceito, exemplos e tipos de dados (conceitosdomundo.pt) 
+
+Algoritmo: o que é, definição, exemplos e aplicações - Enciclopédia Significados 
+
+O que é um Banco de Dados? | Oracle Brasil 
+
+Jurimetria: O que é, aplicações, pilares e mais! (aurum.com.br) 
+
+NIC.br - Na Mídia - O que é Zero Rating? Entenda polêmica que envolve Facebook e operadoras 
+
+Neutralidade da rede: entenda o significado e a importância do conceito | Idec - Instituto Brasileiro de Defesa do Consumidor 
+
+O que é um servidor, como ele funciona e principais vantagens? (kenzie.com.br) 
+
+O que são Redes Neurais? | IBM 
