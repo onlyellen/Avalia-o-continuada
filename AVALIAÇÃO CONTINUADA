@@ -131,3 +131,35 @@ Neutralidade da rede: entenda o significado e a importância do conceito | Idec 
 O que é um servidor, como ele funciona e principais vantagens? (kenzie.com.br) 
 
 O que são Redes Neurais? | IBM 
+LINGUAGENS DE PROGRAMAÇÃO 
+Linguagens de programação são conjuntos de regras e símbolos utilizados para criar programas de computador. Elas são definidas a partir de conjuntos ilimitados de símbolos, estruturas de dados e comandos. A sintaxe de uma linguagem de programação determina como os símbolos são combinados a fim de expressar comandos e instruções a serem executados pelo computador. 
+Python: 
+Python é uma linguagem de programação de alto nível e propósito geral, amplamente reconhecida por sua sintaxe simples e legibilidade. Ela é interpretada, o que significa que o código não precisa ser compilado antes da execução. Essa característica faz com que seja uma excelente escolha para iniciantes, além de ser uma linguagem muito utilizada em uma variedade de domínios, incluindo desenvolvimento web, ciência de dados, automação de tarefas e inteligência artificial. Com frameworks populares como Django e Flask, Python se destaca no desenvolvimento web, oferecendo uma vasta gama de bibliotecas e recursos para facilitar o desenvolvimento. 
+PHP: 
+PHP é uma linguagem de script do lado do servidor, projetada especialmente para o desenvolvimento web dinâmico. É uma das linguagens mais antigas ainda em uso para esse fim e é amplamente utilizada em conjunto com bancos de dados relacionais, como MySQL. PHP é integrada ao HTML para gerar conteúdo dinâmico em páginas da web, tornando-a uma escolha popular para construir sites e aplicativos web interativos. Apesar de sua sintaxe ter sido criticada por alguns, PHP continua sendo uma opção viável para o desenvolvimento web, especialmente para projetos de pequena e média escala. 
+JavaScript: 
+JavaScript é uma linguagem de programação de alto nível, interpretada e multi-paradigma. Inicialmente desenvolvida para ser executada no navegador do cliente, JavaScript é usada para criar interatividade e dinamismo em páginas web. Com o advento do Node.js, JavaScript também pode ser executada no lado do servidor, permitindo o desenvolvimento de aplicativos web completos usando uma única linguagem em ambos os lados. JavaScript é amplamente adotada, com uma vasta gama de frameworks e bibliotecas disponíveis, como React.js, AngularJS e Vue.js. Sua flexibilidade e funcionalidades o tornam adequado para o desenvolvimento de aplicativos web modernos e altamente interativos. 
+<?php 
+echo "Digite seu nome: "; 
+$nome = readline(); 
+echo "Olá, $nome!"; 
+?> 
+var nome = “Evelen” 
+console.log("Olá, " + nome + "!"); 
+nome = input("Digite seu nome: ") 
+print("Olá, " + nome + "!") 
+(optei por executar com o nodeJS) 
+
+REFERENCIAS:  
+
+O que é JavaScript? - Aprendendo desenvolvimento web | MDN (mozilla.org) 
+
+JavaScript: o que é, para que serve e como funciona o JS? (kenzie.com.br) 
+
+PHP: O que é o PHP? - Manual 
+
+PHP - Uma Introdução à Linguagem | Alura 
+
+O que é Python, para que serve e por que aprender? (kenzie.com.br) 
+
+O que é Python: um guia para iniciar nessa linguagem | Alura 
