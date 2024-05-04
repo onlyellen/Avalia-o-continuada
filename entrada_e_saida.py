@@ -53,4 +53,3 @@ def nomes():
     lista_de_nome.append(nome)
 
 nomes()
-
